@@ -1,6 +1,5 @@
-# 🏥 Microservice-Based Healthcare System
+#  Microservice-Based  System
 
-This project is a **Healthcare Management System** built using **Spring Boot** and modern **microservices architecture**. It includes functionalities such as creating, updating, and deleting patients, billing, analytics, authentication, and API management. Technologies like **gRPC**, **Kafka**, **Docker**, **API Gateway**, and **JWT** are used to build a scalable and modular system.
 
 ## 🚀 Technologies Used
 
@@ -15,7 +14,6 @@ This project is a **Healthcare Management System** built using **Spring Boot** a
 | API Management      | Spring Cloud Gateway                   |
 | Documentation       | OpenAPI (Swagger)                      |
 | Build Tool          | Maven                                  |
-| Testing             | JUnit, Mockito                         |
 
 ---
 
